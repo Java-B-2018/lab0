@@ -4,13 +4,13 @@
 
 [教学团队](#教学团队)  
 
-[Lab课堂要求与建议](#要求)
+[Lab课堂要求与建议](#lab课堂要求与建议)
 
-[关于操作系统](#操作系统)
+[关于操作系统](#关于操作系统)
 
-[使用学院的ftp](#ftp)
+[使用学院的ftp](#使用学院的ftp)
 
-[使用elearning](#elearning)
+[使用elearning](#使用elearning)
 
 [安装Java JDK](#安装java-jdk)
 
@@ -110,7 +110,7 @@ D:\\LAB\\LAB0\>javac Lab0.java
 D:\\LAB\\LAB0\>java Lab0  
 Hello World !
 
-软件推荐
+## 软件推荐
 
 文字编辑器：NotePad++,Atom,Sublime Text等
 
@@ -123,6 +123,6 @@ Studio(Windows)或者Xcode（OS X）
 
 搜集材料：csdn,pudn,github(当然只是借鉴)
 
-提交  
+## 提交  
 将你的 LAB0
 目录（至少包（至少包含Lab0.java文件）打包成zip或者rar格式的文件，重命名为学号,提交到指定的目录下。
