@@ -5,13 +5,21 @@
 [教学团队](#教学团队)
 
 [Lab课堂要求与建议](#要求)
+
 [关于操作系统](#操作系统)
+
 [使用学院的ftp](#ftp)
+
 [使用elearning](#elearning)
+
 [安装Java JDK](#安装java&nbspJDK)
+
 [配置环境变量](#配置环境变量)
+
 [Hello World!](#Helloworld)
+
 [软件的选择的建议](#软件推荐)
+
 [提交](#提交)
 
 ## 教学团队
