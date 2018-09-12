@@ -12,7 +12,7 @@
 
 [使用elearning](#elearning)
 
-[安装Java JDK](#安装java&nbspJDK)
+[安装Java JDK](#安装java-JDK)
 
 [配置环境变量](#配置环境变量)
 
